@@ -1,6 +1,6 @@
 # MRI-to-CT
 
-During my Master's, I worked on a deep learning project to generate a synthetic CT from an MRI of the pelvic region. The goal was to provide a transformation so that the synthetic CT could be used for treatment planning, eliminating the need to acquire a CT. This approach reduces workflow overload and image registration errors.
+During my Master's, I worked on a deep learning project to generate a synthetic CT from an MRI of the pelvic region. The goal was to generate a synthetic CT that could be used for treatment planning in radiotherapy, eliminating the need to acquire a CT. This approach reduces workflow overload and image registration errors.
 
 ## Performance
 The table below shows the performance of 4 different architectures on the test set. The test set contains 27 volumes (patients)
